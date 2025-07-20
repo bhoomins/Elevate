@@ -8,7 +8,7 @@ A web-based career guidance portal for Computer Engineering students, focusing o
 
 ### Features
 
-- Dedicated HTML pages for each technical subdomain
+- Dedicated pages for each technical subdomain
 - Organized folder structure for scalability
 - Central index page for easy navigation
 - Covers major fields including:
