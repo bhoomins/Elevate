@@ -20,3 +20,24 @@ A web-based career guidance portal for Computer Engineering students, focusing o
   - Project Management
   - Networking & Hardware
 
+
+### Technologies Used
+
+- HTML5
+- CSS3
+- Javascript
+- Netlify (for deployment)
+
+### How to Run Locally
+
+1. Clone the repo: git clone https://github.com/bhoomins/Elevate.git
+2. Open the `index.html` file in your browser
+
+### Future Enhancements
+
+- Improve mobile responsiveness
+- User login and personalized career tracking
+
+### License
+
+This project is licensed under the MIT License.
